@@ -1,4 +1,0 @@
-I made the Pumpkin in Solidworks assembly.
-then I seperated the Pumpkin into three bodies the main body, the top head and the stem.
-finally, I converted the "assembly" of the three Pumpkin bodies into three SLDPRT files.
-The three SLDPRT Files were made to easily put into a different SLDASM File(s).
